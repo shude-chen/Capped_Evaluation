@@ -1,0 +1,11 @@
+{
+  "public_n": 500,
+  "feedback_queries": 501,
+  "public_accuracy": 1.0,
+  "fresh_n": 5000,
+  "fresh_correct": 2513,
+  "fresh_accuracy": 0.5026,
+  "fresh_p_value": 0.36183873787481635,
+  "oracle": "exact integer correct count",
+  "fresh_fallback": "minus-one output"
+}
