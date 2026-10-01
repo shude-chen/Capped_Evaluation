@@ -16,8 +16,8 @@ parameters, source code and numerical results are available for inspection.
 Python 3.11+; CPU only. No model weights, API key, GPU or proprietary data.
 
 ```bash
-git clone --depth 1 https://github.com/shude-chen/shude-chen.github.io.git
-cd shude-chen.github.io/research/capped-evaluation-pilot
+git clone https://github.com/shude-chen/Capped_Evaluation.git
+cd Capped_Evaluation/capped-evaluation-pilot
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
