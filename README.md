@@ -11,7 +11,6 @@ The experiments examine partial label leakage, repeated hypothesis testing, and 
 - [Overview and quick start](capped-evaluation-pilot/README.md)
 - [English report and results](capped-evaluation-pilot/report.md)
 - [Methods and statistical assumptions](capped-evaluation-pilot/METHODS.md)
-- [中文实验说明](capped-evaluation-pilot/docs/guide_zh.md)
 - [Python source code](capped-evaluation-pilot/run_experiment.py)
 
 ## Scope and transparency
