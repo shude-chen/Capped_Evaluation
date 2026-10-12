@@ -49,7 +49,6 @@ The study considers independent probabilistic label exposure; selection from pre
 - [`run_experiment.py`](run_experiment.py): simulation and plotting code.
 - [`report.md`](report.md): full English report, results, and interpretation.
 - [`METHODS.md`](METHODS.md): statistical design, assumptions, and limitations.
-- [`docs/guide_zh.md`](docs/guide_zh.md): explanatory Chinese guide.
 - [`results/`](results/): CSV results, metadata, toy data, and PNG/SVG figures.
 
 The private target bits in `toy_task_examples.json` are disclosed for offline auditing only. In the feedback demonstration, the simulated attack receives evaluator scores, not hidden target bits. No actual secret or third-party private information is included.
